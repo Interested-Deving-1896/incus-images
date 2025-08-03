@@ -4,6 +4,8 @@
 
 ### General informations
 
+**⚠️These images are not maintained anymore, but I'll leave them as examples for stargazers :) ⚠️**
+
 This repository contains my personal manifests to build custom Incus container and virtual machine images using Distrobuilder in my homelab. These manifests are based on [Linux Containers project manifests](https://github.com/lxc/lxc-ci/tree/master/images/) they use for their [image server](https://images.linuxcontainers.org/).
 
 **Images**
